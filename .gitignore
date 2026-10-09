@@ -1,0 +1,9 @@
+# Raw Kaggle data, the warehouse file and generated outputs are rebuilt by the pipeline
+data/
+output/
+logs/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
+kaggle.json
